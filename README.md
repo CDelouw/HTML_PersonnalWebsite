@@ -1,5 +1,5 @@
 <h1>This the first website that I created while learning the base of HTML.</h1>
-You can have a preview of it : https://cdelouw.github.io/HTML_PersonnalWebsite/
+
 
 The main focus was to try to reproduce the idea of a CV. 
 Having a main page that linked two others.
